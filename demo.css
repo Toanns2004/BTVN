@@ -1,0 +1,17 @@
+body{
+    margin: 100px;
+}
+ol {
+    font-size: 16px;
+    text-align: right;
+    line-height: 1.5;
+}
+ul {
+    width: 300px;
+    float: right;
+}
+h3{
+    color: brown;
+    height: 2px;
+    background-color: blueviolet;
+}
