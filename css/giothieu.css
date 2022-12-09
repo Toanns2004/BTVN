@@ -1,0 +1,31 @@
+
+nav {
+    width: 980px;
+    margin: 0px 200px;
+}
+div{
+    float: left;
+}
+.container{
+    padding-top: 20px;
+}
+.introduce{
+    padding: 25px;
+    color: #644a4a;
+}
+.money{
+    padding:25px
+}
+.name {
+    font-size: 20px;
+    color: #644a4a;
+}
+
+img {
+    width: 300px;
+    height: 333px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: black;
+}
